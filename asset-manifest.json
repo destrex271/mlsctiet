@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.12309d13.css",
+    "main.js": "/static/js/main.37a889fb.js",
+    "static/media/image.png": "/static/media/image.4369d29914c0eff47298.png",
+    "static/media/ml.png": "/static/media/ml.aa77d98ffbda7735d94f.png",
+    "static/media/Error.png": "/static/media/Error.3a2a55aac5346c453360.png",
+    "static/media/Projects logo.png": "/static/media/Projects logo.7cff4e9b01d7caa1bad3.png",
+    "static/media/mlsc_shield_new.png": "/static/media/mlsc_shield_new.897464249c85ed4f07c1.png",
+    "static/media/myanmar-khyay.ttf": "/static/media/myanmar-khyay.9457e865c03a94238142.ttf",
+    "static/media/project1.png": "/static/media/project1.4849375158519bac33b3.png",
+    "static/media/Error4.png": "/static/media/Error4.07ffaca4dc36fc5ae133.png",
+    "static/media/mlsc-logo.png": "/static/media/mlsc-logo.13f9160c49942ec13624.png",
+    "static/media/LC.png": "/static/media/LC.7969e8aed43435e96713.png",
+    "static/media/RC.png": "/static/media/RC.d31ef60bc1466a292344.png",
+    "index.html": "/index.html",
+    "main.12309d13.css.map": "/static/css/main.12309d13.css.map",
+    "main.37a889fb.js.map": "/static/js/main.37a889fb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12309d13.css",
+    "static/js/main.37a889fb.js"
+  ]
+}
